@@ -1,0 +1,3 @@
+﻿  T08-Integer-Too-Big-main.cpp
+C:\Users\dnten\source\repos\T08-IntegerOverflow\T08-Integer-Too-Big-main.cpp(16,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  T08-IntegerOverflow-MASTER.vcxproj -> C:\Users\dnten\Source\Repos\T08-IntegerOverflow\x64\Debug\T08-IntegerOverflow-MASTER.exe
